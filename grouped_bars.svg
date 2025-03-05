@@ -1,0 +1,185 @@
+<svg width="900" height="700" viewBox="0 0 900 700" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect x="0" y="0" width="900" height="700" fill="white" />
+  <text font-size="1.5rem" fill="black" x="20" y="20" xml:space="preserve">
+    <tspan x="20" dy="0em">Мексика, Канада и Вьетнам выглядят уязвимыми в торговой</tspan>
+    <tspan x="20" dy="1.2em">войне с США</tspan>
+  </text>
+  <text font-size="1.2rem" fill="black" x="20" y="87.6" xml:space="preserve">
+    <tspan x="20" dy="0em">Рейтинг экономик по экспорту в США (доля экспорта стран,</tspan>
+    <tspan x="20" dy="1.2em">которая идёт в США)</tspan>
+  </text>
+  <rect x="20" y="130" width="10" height="10" fill="#9c2c24" />
+  <text x="40" y="140" font-size="1rem" fill="black" dominant-baseline="alphabetic"> промежуточные товары </text>
+  <rect x="270" y="130" width="10" height="10" fill="black" />
+  <text x="290" y="140" font-size="1rem" fill="black" dominant-baseline="alphabetic"> средства производства </text>
+  <text x="20" y="202.5" font-size="1rem" fill="black" text-anchor="start" dominant-baseline="middle"> Мексика </text>
+  <rect x="220" y="180" width="0" height="20" fill="#9c2c24">
+    <animate attributeName="width" from="0" to="493.02" begin="0.0s; 39.0s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="718.02" y="190.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 74.7%
+    <animate attributeName="opacity" from="0" to="1" begin="1.5s; 40.5s" dur="1.0s" fill="freeze" />
+  </text>
+  <rect x="220" y="205" width="0" height="20" fill="black">
+    <animate attributeName="width" from="0" to="611.82" begin="1.5s; 40.5s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="836.82" y="215.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 92.7%
+    <animate attributeName="opacity" from="0" to="1" begin="3.0s; 42.0s" dur="1.0s" fill="freeze" />
+  </text>
+  <text x="20" y="262.5" font-size="1rem" fill="black" text-anchor="start" dominant-baseline="middle"> Канада </text>
+  <rect x="220" y="240" width="0" height="20" fill="#9c2c24">
+    <animate attributeName="width" from="0" to="487.74000000000007" begin="3.0s; 42.0s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="712.74" y="250.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 73.9%
+    <animate attributeName="opacity" from="0" to="1" begin="4.5s; 43.5s" dur="1.0s" fill="freeze" />
+  </text>
+  <rect x="220" y="265" width="0" height="20" fill="black">
+    <animate attributeName="width" from="0" to="504.90000000000003" begin="4.5s; 43.5s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="729.9000000000001" y="275.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 76.5%
+    <animate attributeName="opacity" from="0" to="1" begin="6.0s; 45.0s" dur="1.0s" fill="freeze" />
+  </text>
+  <text x="20" y="322.5" font-size="1rem" fill="black" text-anchor="start" dominant-baseline="middle"> Вьетнам </text>
+  <rect x="220" y="300" width="0" height="20" fill="#9c2c24">
+    <animate attributeName="width" from="0" to="114.18" begin="6.0s; 45.0s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="339.18" y="310.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 17.3%
+    <animate attributeName="opacity" from="0" to="1" begin="7.5s; 46.5s" dur="1.0s" fill="freeze" />
+  </text>
+  <rect x="220" y="325" width="0" height="20" fill="black">
+    <animate attributeName="width" from="0" to="310.2" begin="7.5s; 46.5s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="535.2" y="335.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 47.0%
+    <animate attributeName="opacity" from="0" to="1" begin="9.0s; 48.0s" dur="1.0s" fill="freeze" />
+  </text>
+  <text x="20" y="382.5" font-size="1rem" fill="black" text-anchor="start" dominant-baseline="middle"> Таиланд </text>
+  <rect x="220" y="360" width="0" height="20" fill="#9c2c24">
+    <animate attributeName="width" from="0" to="99.66" begin="9.0s; 48.0s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="324.65999999999997" y="370.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 15.1%
+    <animate attributeName="opacity" from="0" to="1" begin="10.5s; 49.5s" dur="1.0s" fill="freeze" />
+  </text>
+  <rect x="220" y="385" width="0" height="20" fill="black">
+    <animate attributeName="width" from="0" to="190.08" begin="10.5s; 49.5s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="415.08000000000004" y="395.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 28.8%
+    <animate attributeName="opacity" from="0" to="1" begin="12.0s; 51.0s" dur="1.0s" fill="freeze" />
+  </text>
+  <text x="20" y="442.5" font-size="1rem" fill="black" text-anchor="start" dominant-baseline="middle"> Бразилия </text>
+  <rect x="220" y="420" width="0" height="20" fill="#9c2c24">
+    <animate attributeName="width" from="0" to="64.68" begin="12.0s; 51.0s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="289.68" y="430.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 9.8%
+    <animate attributeName="opacity" from="0" to="1" begin="13.5s; 52.5s" dur="1.0s" fill="freeze" />
+  </text>
+  <rect x="220" y="445" width="0" height="20" fill="black">
+    <animate attributeName="width" from="0" to="190.08" begin="13.5s; 52.5s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="415.08000000000004" y="455.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 28.8%
+    <animate attributeName="opacity" from="0" to="1" begin="15.0s; 54.0s" dur="1.0s" fill="freeze" />
+  </text>
+  <text x="20" y="502.5" font-size="1rem" fill="black" text-anchor="start" dominant-baseline="middle"> Малайзия </text>
+  <rect x="220" y="480" width="0" height="20" fill="#9c2c24">
+    <animate attributeName="width" from="0" to="67.98" begin="15.0s; 54.0s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="292.98" y="490.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 10.3%
+    <animate attributeName="opacity" from="0" to="1" begin="16.5s; 55.5s" dur="1.0s" fill="freeze" />
+  </text>
+  <rect x="220" y="505" width="0" height="20" fill="black">
+    <animate attributeName="width" from="0" to="172.92000000000002" begin="16.5s; 55.5s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="397.92" y="515.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 26.2%
+    <animate attributeName="opacity" from="0" to="1" begin="18.0s; 57.0s" dur="1.0s" fill="freeze" />
+  </text>
+  <text x="20" y="562.5" font-size="1rem" fill="black" text-anchor="start" dominant-baseline="middle"> Япония </text>
+  <rect x="220" y="540" width="0" height="20" fill="#9c2c24">
+    <animate attributeName="width" from="0" to="104.28" begin="18.0s; 57.0s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="329.28" y="550.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 15.8%
+    <animate attributeName="opacity" from="0" to="1" begin="19.5s; 58.5s" dur="1.0s" fill="freeze" />
+  </text>
+  <rect x="220" y="565" width="0" height="20" fill="black">
+    <animate attributeName="width" from="0" to="141.24" begin="19.5s; 58.5s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="366.24" y="575.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 21.4%
+    <animate attributeName="opacity" from="0" to="1" begin="21.0s; 60.0s" dur="1.0s" fill="freeze" />
+  </text>
+  <text x="20" y="622.5" font-size="1rem" fill="black" text-anchor="start" dominant-baseline="middle"> Евросоюз </text>
+  <rect x="220" y="600" width="0" height="20" fill="#9c2c24">
+    <animate attributeName="width" from="0" to="138.6" begin="21.0s; 60.0s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="363.6" y="610.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 21.0%
+    <animate attributeName="opacity" from="0" to="1" begin="22.5s; 61.5s" dur="1.0s" fill="freeze" />
+  </text>
+  <rect x="220" y="625" width="0" height="20" fill="black">
+    <animate attributeName="width" from="0" to="137.28" begin="22.5s; 61.5s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="362.28" y="635.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 20.8%
+    <animate attributeName="opacity" from="0" to="1" begin="24.0s; 63.0s" dur="1.0s" fill="freeze" />
+  </text>
+  <text x="20" y="682.5" font-size="1rem" fill="black" text-anchor="start" dominant-baseline="middle"> Великобритания </text>
+  <rect x="220" y="660" width="0" height="20" fill="#9c2c24">
+    <animate attributeName="width" from="0" to="85.8" begin="24.0s; 63.0s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="310.8" y="670.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 13.0%
+    <animate attributeName="opacity" from="0" to="1" begin="25.5s; 64.5s" dur="1.0s" fill="freeze" />
+  </text>
+  <rect x="220" y="685" width="0" height="20" fill="black">
+    <animate attributeName="width" from="0" to="126.72" begin="25.5s; 64.5s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="351.72" y="695.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 19.2%
+    <animate attributeName="opacity" from="0" to="1" begin="27.0s; 66.0s" dur="1.0s" fill="freeze" />
+  </text>
+  <text x="20" y="742.5" font-size="1rem" fill="black" text-anchor="start" dominant-baseline="middle"> Китай </text>
+  <rect x="220" y="720" width="0" height="20" fill="#9c2c24">
+    <animate attributeName="width" from="0" to="64.02" begin="27.0s; 66.0s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="289.02" y="730.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 9.7%
+    <animate attributeName="opacity" from="0" to="1" begin="28.5s; 67.5s" dur="1.0s" fill="freeze" />
+  </text>
+  <rect x="220" y="745" width="0" height="20" fill="black">
+    <animate attributeName="width" from="0" to="106.92" begin="28.5s; 67.5s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="331.92" y="755.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 16.2%
+    <animate attributeName="opacity" from="0" to="1" begin="30.0s; 69.0s" dur="1.0s" fill="freeze" />
+  </text>
+  <text x="20" y="802.5" font-size="1rem" fill="black" text-anchor="start" dominant-baseline="middle"> Швейцария </text>
+  <rect x="220" y="780" width="0" height="20" fill="#9c2c24">
+    <animate attributeName="width" from="0" to="98.33999999999999" begin="30.0s; 69.0s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="323.34" y="790.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 14.9%
+    <animate attributeName="opacity" from="0" to="1" begin="31.5s; 70.5s" dur="1.0s" fill="freeze" />
+  </text>
+  <rect x="220" y="805" width="0" height="20" fill="black">
+    <animate attributeName="width" from="0" to="105.60000000000001" begin="31.5s; 70.5s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="330.6" y="815.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 16.0%
+    <animate attributeName="opacity" from="0" to="1" begin="33.0s; 72.0s" dur="1.0s" fill="freeze" />
+  </text>
+  <text x="20" y="862.5" font-size="1rem" fill="black" text-anchor="start" dominant-baseline="middle"> Южная Корея </text>
+  <rect x="220" y="840" width="0" height="20" fill="#9c2c24">
+    <animate attributeName="width" from="0" to="87.78" begin="33.0s; 72.0s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="312.78" y="850.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 13.3%
+    <animate attributeName="opacity" from="0" to="1" begin="34.5s; 73.5s" dur="1.0s" fill="freeze" />
+  </text>
+  <rect x="220" y="865" width="0" height="20" fill="black">
+    <animate attributeName="width" from="0" to="105.60000000000001" begin="34.5s; 73.5s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="330.6" y="875.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 16.0%
+    <animate attributeName="opacity" from="0" to="1" begin="36.0s; 75.0s" dur="1.0s" fill="freeze" />
+  </text>
+  <text x="20" y="922.5" font-size="1rem" fill="black" text-anchor="start" dominant-baseline="middle"> Индия </text>
+  <rect x="220" y="900" width="0" height="20" fill="#9c2c24">
+    <animate attributeName="width" from="0" to="130.01999999999998" begin="36.0s; 75.0s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="355.02" y="910.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 19.7%
+    <animate attributeName="opacity" from="0" to="1" begin="37.5s; 76.5s" dur="1.0s" fill="freeze" />
+  </text>
+  <rect x="220" y="925" width="0" height="20" fill="black">
+    <animate attributeName="width" from="0" to="105.60000000000001" begin="37.5s; 76.5s" dur="1.5s" fill="freeze" />
+  </rect>
+  <text x="330.6" y="935.0" font-size="1rem" fill="black" opacity="0" dominant-baseline="middle"> 16.0%
+    <animate attributeName="opacity" from="0" to="1" begin="39.0s; 78.0s" dur="1.0s" fill="freeze" />
+  </text>
+  <image xlink:href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTU3MCIgaGVpZ2h0PSIzNDUiIHZpZXdCb3g9IjAgMCAxNTcwIDM0NSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNDQgMTA5QzE0NCAxOTcuODQ0IDE0NC41IDMzNi41IDE0NC41IDMzNi41SDE5NS41VjEwOUMyMDIuNTI4IDkzLjE1MDIgMjE3LjAzNiA3Ni4wNzgxIDI0Mi41IDc1QzI2Ny40MjYgNzQuMzk0OSAyODQuODEgOTAuNDIyOCAyOTIuMTExIDEwOUgzMzkuNUMzMzIuNjcxIDg3LjI2MDMgMzI2LjczNiA3NS43NjA1IDMwMiA1OUMyNjYuMzc0IDM3Ljk0ODYgMjQ1Ljk1NSAzNi4wODQ5IDIwOSA0NS41TDE3MCAwTDEzMS41IDQ1LjVDOTMuMDAyMyAzNS41NDU4IDcyLjU3NjQgMzguODc1NiAzOCA1OUMxMy4zNjQzIDc2LjQ2MjQgNi42OTg1NiA4Ny44MTgyIDAuNSAxMDlINDcuNUM2MC42Mzk3IDc1LjEzNTEgOTQuNSA3NSA5NC41IDc1Qzk0LjUgNzUgOTcuNjA0IDc0Ljc3MTYgMTAwIDc1LjAxNThDMTA5Ljc5OCA3NS4wNzk2IDEzNS41OTUgODMuMzA2MyAxNDQgMTA5WiIgZmlsbD0iIzlDMkMyNCIvPgo8cGF0aCBkPSJNNDg2IDIzOS41QzQ4NiAyNzQuODc0IDQ2OC44MzggMzA2LjE4MSA0NDIuNSAzMjUuMzIyVjMzOEg0ODZWMjM5LjVaIiBmaWxsPSIjOUMyQzI0Ii8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNDQyLjUgMzI1LjMyMkM0NjguODM4IDMwNi4xODEgNDg2IDI3NC44NzQgNDg2IDIzOS41QzQ4NiAxODEuMjM0IDQzOS40MzggMTM0IDM4MiAxMzRDMzI0LjU2MiAxMzQgMjc4IDE4MS4yMzQgMjc4IDIzOS41QzI3OCAyOTcuNzY2IDMyNC41NjIgMzQ1IDM4MiAzNDVDNDA0LjU2NyAzNDUgNDI1LjQ1NSAzMzcuNzA5IDQ0Mi41IDMyNS4zMjJaTTM4MiAzMDFDNDE1LjY4OSAzMDEgNDQzIDI3My42ODkgNDQzIDI0MEM0NDMgMjA2LjMxMSA0MTUuNjg5IDE3OSAzODIgMTc5QzM0OC4zMTEgMTc5IDMyMSAyMDYuMzExIDMyMSAyNDBDMzIxIDI3My42ODkgMzQ4LjMxMSAzMDEgMzgyIDMwMVoiIGZpbGw9IiM5QzJDMjQiLz4KPHBhdGggZD0iTTg4OSAyMzkuNUM4ODkgMjc0Ljg3NCA4NzEuODM4IDMwNi4xODEgODQ1LjUgMzI1LjMyMlYzMzhIODg5VjIzOS41WiIgZmlsbD0iIzlDMkMyNCIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTg0NS41IDMyNS4zMjJDODcxLjgzOCAzMDYuMTgxIDg4OSAyNzQuODc0IDg4OSAyMzkuNUM4ODkgMTgxLjIzNCA4NDIuNDM4IDEzNCA3ODUgMTM0QzcyNy41NjIgMTM0IDY4MSAxODEuMjM0IDY4MSAyMzkuNUM2ODEgMjk3Ljc2NiA3MjcuNTYyIDM0NSA3ODUgMzQ1QzgwNy41NjcgMzQ1IDgyOC40NTUgMzM3LjcwOSA4NDUuNSAzMjUuMzIyWk03ODUgMzAxQzgxOC42ODkgMzAxIDg0NiAyNzMuNjg5IDg0NiAyNDBDODQ2IDIwNi4zMTEgODE4LjY4OSAxNzkgNzg1IDE3OUM3NTEuMzExIDE3OSA3MjQgMjA2LjMxMSA3MjQgMjQwQzcyNCAyNzMuNjg5IDc1MS4zMTEgMzAxIDc4NSAzMDFaIiBmaWxsPSIjOUMyQzI0Ii8+CjxwYXRoIGQ9Ik05MjAgMjM5LjVDOTIwIDIwNC4xMjYgOTM3LjE2MiAxNzIuODE5IDk2My41IDE1My42NzhMOTYzLjUgNzYuNUg5MjBMOTIwIDIzOS41WiIgZmlsbD0iIzlDMkMyNCIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTk2My41IDE1My42NzhDOTM3LjE2MiAxNzIuODE5IDkyMCAyMDQuMTI2IDkyMCAyMzkuNUM5MjAgMjk3Ljc2NiA5NjYuNTYyIDM0NSAxMDI0IDM0NUMxMDgxLjQ0IDM0NSAxMTI4IDI5Ny43NjYgMTEyOCAyMzkuNUMxMTI4IDE4MS4yMzQgMTA4MS40NCAxMzQgMTAyNCAxMzRDMTAwMS40MyAxMzQgOTgwLjU0NSAxNDEuMjkxIDk2My41IDE1My42NzhaTTEwMjQgMzAxQzEwNTcuNjkgMzAxIDEwODUgMjczLjY4OSAxMDg1IDI0MEMxMDg1IDIwNi4zMTEgMTA1Ny42OSAxNzkgMTAyNCAxNzlDOTkwLjMxMSAxNzkgOTYzIDIwNi4zMTEgOTYzIDI0MEM5NjMgMjczLjY4OSA5OTAuMzExIDMwMSAxMDI0IDMwMVoiIGZpbGw9IiM5QzJDMjQiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMjAyLjUgMTUzLjE3OEMxMTc2LjE2IDE3Mi4zMTkgMTE1OSAyMDMuNjI2IDExNTkgMjM5QzExNTkgMjk3LjI2NiAxMjA1LjU2IDM0NC41IDEyNjMgMzQ0LjVDMTMwOC4wMSAzNDQuNSAxMzQ2LjM0IDMxNS40OTYgMTM2MC44MiAyNzQuOTA3SDEzMDkuNUMxMzAwLjQ0IDI4Ni45IDEyODQuNDggMjk5IDEyNjMgMjk5QzEyMjcuNSAyOTkgMTIwOSAyNjQuNSAxMjA5IDI1NC41TDEzMTggMjU0LjVIMTM2NS44OUMxMzY2LjYyIDI0OS40NDEgMTM2NyAyNDQuMjY2IDEzNjcgMjM5QzEzNjcgMTgwLjczNCAxMzIwLjQ0IDEzMy41IDEyNjMgMTMzLjVDMTI0MC40MyAxMzMuNSAxMjE5LjU0IDE0MC43OTEgMTIwMi41IDE1My4xNzhaTTEzMTcgMjE5TDEyMDggMjE5QzEyMDYuNSAyMDguNSAxMjI3IDE3NC41IDEyNjMgMTc0LjVDMTI5OC41IDE3NC41IDEzMTcgMjA5IDEzMTcgMjE5WiIgZmlsbD0iIzlDMkMyNCIvPgo8cGF0aCBkPSJNNjU0LjUgMzM5SDUxN1YyOTNMNjAwLjUgMTgzLjVINTE5LjVWMTQwLjVINjUwVjE4OC41TDU2NiAyOTZINjU0LjVWMzM5WiIgZmlsbD0iIzlDMkMyNCIvPgo8cGF0aCBkPSJNMTM5NiA3Ny41SDE0MzkuNVYyMzNMMTUwNiAxNDFIMTU1NUwxNDg3LjUgMjMzTDE1NjkuNSAzMzkuNUgxNTEzTDE0MzkuNSAyMzNWMzM5LjVIMTM5NlY3Ny41WiIgZmlsbD0iIzlDMkMyNCIvPgo8L3N2Zz4K" x="780" y="640" width="100" height="40" />
+</svg>
