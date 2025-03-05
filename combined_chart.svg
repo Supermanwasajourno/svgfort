@@ -1,0 +1,171 @@
+<svg width="900" height="700" viewBox="0 0 900 700" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="0" y="0" width="900" height="700" fill="white"/>
+<text font-size="1.5rem" fill="black" x="20" y="20" xml:space="preserve">
+  <tspan x="20" dy="0em">США импортировали товаров из Китая на полтриллиона долларов</tspan>
+  <tspan x="20" dy="1.2em">в 2024 году</tspan>
+</text>
+<text font-size="1.2rem" fill="black" x="20" y="78.4" xml:space="preserve">
+  <tspan x="20" dy="0em">Угроза пошлин вероятно подтолкнула спрос в США (суммы</tspan>
+  <tspan x="20" dy="1.2em">указаны в млрд $)</tspan>
+</text>
+<rect x="110" y="120" width="10" height="10" fill="#d14d72"/>
+<text x="125" y="130" font-size="1rem" fill="black" dominant-baseline="alphabetic">Импорт из Китая в США</text>
+<rect x="360" y="120" width="10" height="10" fill="#2685c8"/>
+<text x="375" y="130" font-size="1rem" fill="black" dominant-baseline="alphabetic">Экспорт США в КНР</text>
+<rect x="610" y="120" width="10" height="10" fill="black"/>
+<text x="625" y="130" font-size="1rem" fill="black" dominant-baseline="alphabetic">Торговый профицит КНР</text>
+<line x1="100.0" y1="150" x2="100.0" y2="600" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="256.25" y1="150" x2="256.25" y2="600" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="412.5" y1="150" x2="412.5" y2="600" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="568.75" y1="150" x2="568.75" y2="600" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="631.25" y1="150" x2="631.25" y2="600" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="725.0" y1="150" x2="725.0" y2="600" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="850.0" y1="150" x2="850.0" y2="600" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="100" y1="600.0" x2="850" y2="600.0" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="100" y1="562.5" x2="850" y2="562.5" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="100" y1="525.0" x2="850" y2="525.0" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="100" y1="487.5" x2="850" y2="487.5" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="100" y1="450.0" x2="850" y2="450.0" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="100" y1="412.5" x2="850" y2="412.5" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="100" y1="375.0" x2="850" y2="375.0" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="100" y1="337.5" x2="850" y2="337.5" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="100" y1="300.0" x2="850" y2="300.0" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="100" y1="262.5" x2="850" y2="262.5" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="100" y1="225.0" x2="850" y2="225.0" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="100" y1="187.5" x2="850" y2="187.5" stroke="gray" stroke-width="1" opacity="0.3"/>
+<line x1="100" y1="150.0" x2="850" y2="150.0" stroke="gray" stroke-width="1" opacity="0.3"/>
+<text x="100.0" y="603" font-size="1rem" fill="black" text-anchor="middle" dominant-baseline="hanging">2000</text>
+<text x="256.25" y="603" font-size="1rem" fill="black" text-anchor="middle" dominant-baseline="hanging">2005</text>
+<text x="412.5" y="603" font-size="1rem" fill="black" text-anchor="middle" dominant-baseline="hanging">2010</text>
+<text x="568.75" y="603" font-size="1rem" fill="black" text-anchor="middle" dominant-baseline="hanging">2015</text>
+<text x="631.25" y="603" font-size="1rem" fill="black" text-anchor="middle" dominant-baseline="hanging">2017</text>
+<text x="725.0" y="603" font-size="1rem" fill="black" text-anchor="middle" dominant-baseline="hanging">2020</text>
+<text x="850.0" y="603" font-size="1rem" fill="black" text-anchor="middle" dominant-baseline="hanging">2024</text>
+<text x="860" y="600.0" font-size="1rem" fill="black" text-anchor="start">0</text>
+<text x="860" y="562.5" font-size="1rem" fill="black" text-anchor="start">50</text>
+<text x="860" y="525.0" font-size="1rem" fill="black" text-anchor="start">100</text>
+<text x="860" y="487.5" font-size="1rem" fill="black" text-anchor="start">150</text>
+<text x="860" y="450.0" font-size="1rem" fill="black" text-anchor="start">200</text>
+<text x="860" y="412.5" font-size="1rem" fill="black" text-anchor="start">250</text>
+<text x="860" y="375.0" font-size="1rem" fill="black" text-anchor="start">300</text>
+<text x="860" y="337.5" font-size="1rem" fill="black" text-anchor="start">350</text>
+<text x="860" y="300.0" font-size="1rem" fill="black" text-anchor="start">400</text>
+<text x="860" y="262.5" font-size="1rem" fill="black" text-anchor="start">450</text>
+<text x="860" y="225.0" font-size="1rem" fill="black" text-anchor="start">500</text>
+<text x="860" y="187.5" font-size="1rem" fill="black" text-anchor="start">550</text>
+<text x="860" y="150.0" font-size="1rem" fill="black" text-anchor="start">600</text>
+<polyline id="line_import" points="100.0,560.925 131.25,559.275 162.5,547.575 193.75,530.625 225.0,506.325 256.25,477.825 287.5,447.45 318.75,425.475 350.0,410.7 381.25,434.4 412.5,387.525 443.75,356.625 475.0,336.15 506.25,323.7 537.5,302.925 568.75,293.1 600.0,311.025 631.25,277.725 662.5,241.2 693.75,285.975 725.0,261.22499999999997 756.25,167.92499999999995 787.5,166.875 818.75,224.85000000000002 850.0,206.47499999999997" fill="none" stroke="#d14d72" stroke-width="6" stroke-linecap="round" pathLength="1000">
+  <animate attributeName="stroke-dasharray" values="0,1000; 1000,0; 1000,0" keyTimes="0; 0.03614; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</polyline>
+<polyline id="line_export" points="100.0,583.2 131.25,580.35 162.5,579.6 193.75,574.575 225.0,566.475 256.25,563.55 287.5,555.6 318.75,547.95 350.0,538.95 381.25,541.875 412.5,523.425 443.75,508.425 475.0,500.325 506.25,485.775 537.5,480.675 568.75,489.15 600.0,499.2 631.25,484.575 662.5,483.675 693.75,507.825 725.0,498.525 756.25,465.225 787.5,467.325 818.75,477.225 850.0,477.3" fill="none" stroke="#2685c8" stroke-width="6" stroke-linecap="round" pathLength="1000">
+  <animate attributeName="stroke-dasharray" values="0,1000; 0,1000; 1000,0; 1000,0" keyTimes="0; 0.03614; 0.07229; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</polyline>
+<rect x="95.0" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 577.725; 577.725" keyTimes="0; 0.07229; 0.10843; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 22.275; 22.275" keyTimes="0; 0.07229; 0.10843; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="126.25" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 578.925; 578.925" keyTimes="0; 0.10843; 0.14458; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 21.075000000000003; 21.075000000000003" keyTimes="0; 0.10843; 0.14458; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="157.5" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 567.975; 567.975" keyTimes="0; 0.14458; 0.18072; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 32.025; 32.025" keyTimes="0; 0.14458; 0.18072; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="188.75" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 556.05; 556.05" keyTimes="0; 0.18072; 0.21687; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 43.95; 43.95" keyTimes="0; 0.18072; 0.21687; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="220.0" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 539.775; 539.775" keyTimes="0; 0.21687; 0.25301; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 60.225; 60.225" keyTimes="0; 0.21687; 0.25301; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="251.25" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 514.275; 514.275" keyTimes="0; 0.25301; 0.28916; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 85.725; 85.725" keyTimes="0; 0.25301; 0.28916; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="282.5" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 491.85; 491.85" keyTimes="0; 0.28916; 0.32530; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 108.14999999999999; 108.14999999999999" keyTimes="0; 0.28916; 0.32530; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="313.75" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 477.525; 477.525" keyTimes="0; 0.32530; 0.36145; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 122.475; 122.475" keyTimes="0; 0.32530; 0.36145; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="345.0" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 471.75; 471.75" keyTimes="0; 0.36145; 0.39759; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 128.25; 128.25" keyTimes="0; 0.36145; 0.39759; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="376.25" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 492.525; 492.525" keyTimes="0; 0.39759; 0.43373; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 107.47500000000001; 107.47500000000001" keyTimes="0; 0.39759; 0.43373; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="407.5" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 464.1; 464.1" keyTimes="0; 0.43373; 0.46988; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 135.9; 135.9" keyTimes="0; 0.43373; 0.46988; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="438.75" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 448.275; 448.275" keyTimes="0; 0.46988; 0.50602; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 151.725; 151.725" keyTimes="0; 0.46988; 0.50602; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="470.0" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 435.825; 435.825" keyTimes="0; 0.50602; 0.54217; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 164.175; 164.175" keyTimes="0; 0.50602; 0.54217; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="501.25" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 437.925; 437.925" keyTimes="0; 0.54217; 0.57831; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 162.075; 162.075" keyTimes="0; 0.54217; 0.57831; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="532.5" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 422.25; 422.25" keyTimes="0; 0.57831; 0.61446; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 177.75; 177.75" keyTimes="0; 0.57831; 0.61446; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="563.75" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 403.95000000000005; 403.95000000000005" keyTimes="0; 0.61446; 0.65060; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 196.04999999999998; 196.04999999999998" keyTimes="0; 0.61446; 0.65060; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="595.0" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 411.9; 411.9" keyTimes="0; 0.65060; 0.68675; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 188.10000000000002; 188.10000000000002" keyTimes="0; 0.65060; 0.68675; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="626.25" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 393.15; 393.15" keyTimes="0; 0.68675; 0.72289; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 206.85; 206.85" keyTimes="0; 0.68675; 0.72289; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="657.5" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 357.525; 357.525" keyTimes="0; 0.72289; 0.75904; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 242.47500000000002; 242.47500000000002" keyTimes="0; 0.72289; 0.75904; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="688.75" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 378.15; 378.15" keyTimes="0; 0.75904; 0.79518; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 221.85; 221.85" keyTimes="0; 0.75904; 0.79518; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="720.0" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 362.625; 362.625" keyTimes="0; 0.79518; 0.83133; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 237.375; 237.375" keyTimes="0; 0.79518; 0.83133; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="751.25" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 302.70000000000005; 302.70000000000005" keyTimes="0; 0.83133; 0.86747; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 297.29999999999995; 297.29999999999995" keyTimes="0; 0.83133; 0.86747; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="782.5" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 299.54999999999995; 299.54999999999995" keyTimes="0; 0.86747; 0.90361; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 300.45000000000005; 300.45000000000005" keyTimes="0; 0.86747; 0.90361; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="813.75" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 347.625; 347.625" keyTimes="0; 0.90361; 0.93976; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 252.37499999999997; 252.37499999999997" keyTimes="0; 0.90361; 0.93976; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect x="845.0" width="10" fill="black">
+  <animate attributeName="y" values="600.0; 600.0; 329.25; 329.25" keyTimes="0; 0.93976; 0.97590; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  <animate attributeName="height" values="0; 0; 270.75; 270.75" keyTimes="0; 0.93976; 0.97590; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<rect id="overlay" x="631.25" y="150" width="93.75" height="450" fill="black">
+  <animate attributeName="opacity" values="0; 0; 0.3" keyTimes="0; 0.97590; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+</rect>
+<text x="678.125" y="375.0" font-size="1.2rem" font-weight="bold" fill="#ef7f2d" text-anchor="middle" dominant-baseline="middle">
+  <animate attributeName="opacity" values="0; 0; 1" keyTimes="0; 0.97590; 1" dur="41.5s" repeatCount="indefinite" calcMode="linear"/>
+  первое президентство Трампа
+</text>
+<image xlink:href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTU3MCIgaGVpZ2h0PSIzNDUiIHZpZXdCb3g9IjAgMCAxNTcwIDM0NSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNDQgMTA5QzE0NCAxOTcuODQ0IDE0NC41IDMzNi41IDE0NC41IDMzNi41SDE5NS41VjEwOUMyMDIuNTI4IDkzLjE1MDIgMjE3LjAzNiA3Ni4wNzgxIDI0Mi41IDc1QzI2Ny40MjYgNzQuMzk0OSAyODQuODEgOTAuNDIyOCAyOTIuMTExIDEwOUgzMzkuNUMzMzIuNjcxIDg3LjI2MDMgMzI2LjczNiA3NS43NjA1IDMwMiA1OUMyNjYuMzc0IDM3Ljk0ODYgMjQ1Ljk1NSAzNi4wODQ5IDIwOSA0NS41TDE3MCAwTDEzMS41IDQ1LjVDOTMuMDAyMyAzNS41NDU4IDcyLjU3NjQgMzguODc1NiAzOCA1OUMxMy4zNjQzIDc2LjQ2MjQgNi42OTg1NiA4Ny44MTgyIDAuNSAxMDlINDcuNUM2MC42Mzk3IDc1LjEzNTEgOTQuNSA3NSA5NC41IDc1Qzk0LjUgNzUgOTcuNjA0IDc0Ljc3MTYgMTAwIDc1LjAxNThDMTA5Ljc5OCA3NS4wNzk2IDEzNS41OTUgODMuMzA2MyAxNDQgMTA5WiIgZmlsbD0iIzlDMkMyNCIvPgo8cGF0aCBkPSJNNDg2IDIzOS41QzQ4NiAyNzQuODc0IDQ2OC44MzggMzA2LjE4MSA0NDIuNSAzMjUuMzIyVjMzOEg0ODZWMjM5LjVaIiBmaWxsPSIjOUMyQzI0Ii8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNDQyLjUgMzI1LjMyMkM0NjguODM4IDMwNi4xODEgNDg2IDI3NC44NzQgNDg2IDIzOS41QzQ4NiAxODEuMjM0IDQzOS40MzggMTM0IDM4MiAxMzRDMzI0LjU2MiAxMzQgMjc4IDE4MS4yMzQgMjc4IDIzOS41QzI3OCAyOTcuNzY2IDMyNC41NjIgMzQ1IDM4MiAzNDVDNDA0LjU2NyAzNDUgNDI1LjQ1NSAzMzcuNzA5IDQ0Mi41IDMyNS4zMjJaTTM4MiAzMDFDNDE1LjY4OSAzMDEgNDQzIDI3My42ODkgNDQzIDI0MEM0NDMgMjA2LjMxMSA0MTUuNjg5IDE3OSAzODIgMTc5QzM0OC4zMTEgMTc5IDMyMSAyMDYuMzExIDMyMSAyNDBDMzIxIDI3My42ODkgMzQ4LjMxMSAzMDEgMzgyIDMwMVoiIGZpbGw9IiM5QzJDMjQiLz4KPHBhdGggZD0iTTg4OSAyMzkuNUM4ODkgMjc0Ljg3NCA4NzEuODM4IDMwNi4xODEgODQ1LjUgMzI1LjMyMlYzMzhIODg5VjIzOS41WiIgZmlsbD0iIzlDMkMyNCIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTg0NS41IDMyNS4zMjJDODcxLjgzOCAzMDYuMTgxIDg4OSAyNzQuODc0IDg4OSAyMzkuNUM4ODkgMTgxLjIzNCA4NDIuNDM4IDEzNCA3ODUgMTM0QzcyNy41NjIgMTM0IDY4MSAxODEuMjM0IDY4MSAyMzkuNUM2ODEgMjk3Ljc2NiA3MjcuNTYyIDM0NSA3ODUgMzQ1QzgwNy41NjcgMzQ1IDgyOC40NTUgMzM3LjcwOSA4NDUuNSAzMjUuMzIyWk03ODUgMzAxQzgxOC42ODkgMzAxIDg0NiAyNzMuNjg5IDg0NiAyNDBDODQ2IDIwNi4zMTEgODE4LjY4OSAxNzkgNzg1IDE3OUM3NTEuMzExIDE3OSA3MjQgMjA2LjMxMSA3MjQgMjQwQzcyNCAyNzMuNjg5IDc1MS4zMTEgMzAxIDc4NSAzMDFaIiBmaWxsPSIjOUMyQzI0Ii8+CjxwYXRoIGQ9Ik05MjAgMjM5LjVDOTIwIDIwNC4xMjYgOTM3LjE2MiAxNzIuODE5IDk2My41IDE1My42NzhMOTYzLjUgNzYuNUg5MjBMOTIwIDIzOS41WiIgZmlsbD0iIzlDMkMyNCIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTk2My41IDE1My42NzhDOTM3LjE2MiAxNzIuODE5IDkyMCAyMDQuMTI2IDkyMCAyMzkuNUM5MjAgMjk3Ljc2NiA5NjYuNTYyIDM0NSAxMDI0IDM0NUMxMDgxLjQ0IDM0NSAxMTI4IDI5Ny43NjYgMTEyOCAyMzkuNUMxMTI4IDE4MS4yMzQgMTA4MS40NCAxMzQgMTAyNCAxMzRDMTAwMS40MyAxMzQgOTgwLjU0NSAxNDEuMjkxIDk2My41IDE1My42NzhaTTEwMjQgMzAxQzEwNTcuNjkgMzAxIDEwODUgMjczLjY4OSAxMDg1IDI0MEMxMDg1IDIwNi4zMTEgMTA1Ny42OSAxNzkgMTAyNCAxNzlDOTkwLjMxMSAxNzkgOTYzIDIwNi4zMTEgOTYzIDI0MEM5NjMgMjczLjY4OSA5OTAuMzExIDMwMSAxMDI0IDMwMVoiIGZpbGw9IiM5QzJDMjQiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMjAyLjUgMTUzLjE3OEMxMTc2LjE2IDE3Mi4zMTkgMTE1OSAyMDMuNjI2IDExNTkgMjM5QzExNTkgMjk3LjI2NiAxMjA1LjU2IDM0NC41IDEyNjMgMzQ0LjVDMTMwOC4wMSAzNDQuNSAxMzQ2LjM0IDMxNS40OTYgMTM2MC44MiAyNzQuOTA3SDEzMDkuNUMxMzAwLjQ0IDI4Ni45IDEyODQuNDggMjk5IDEyNjMgMjk5QzEyMjcuNSAyOTkgMTIwOSAyNjQuNSAxMjA5IDI1NC41TDEzMTggMjU0LjVIMTM2NS44OUMxMzY2LjYyIDI0OS40NDEgMTM2NyAyNDQuMjY2IDEzNjcgMjM5QzEzNjcgMTgwLjczNCAxMzIwLjQ0IDEzMy41IDEyNjMgMTMzLjVDMTI0MC40MyAxMzMuNSAxMjE5LjU0IDE0MC43OTEgMTIwMi41IDE1My4xNzhaTTEzMTcgMjE5TDEyMDggMjE5QzEyMDYuNSAyMDguNSAxMjI3IDE3NC41IDEyNjMgMTc0LjVDMTI5OC41IDE3NC41IDEzMTcgMjA5IDEzMTcgMjE5WiIgZmlsbD0iIzlDMkMyNCIvPgo8cGF0aCBkPSJNNjU0LjUgMzM5SDUxN1YyOTNMNjAwLjUgMTgzLjVINTE5LjVWMTQwLjVINjUwVjE4OC41TDU2NiAyOTZINjU0LjVWMzM5WiIgZmlsbD0iIzlDMkMyNCIvPgo8cGF0aCBkPSJNMTM5NiA3Ny41SDE0MzkuNVYyMzNMMTUwNiAxNDFIMTU1NUwxNDg3LjUgMjMzTDE1NjkuNSAzMzkuNUgxNTEzTDE0MzkuNSAyMzNWMzM5LjVIMTM5NlY3Ny41WiIgZmlsbD0iIzlDMkMyNCIvPgo8L3N2Zz4K" x="780" y="640" width="100" height="40"/>
+</svg>
