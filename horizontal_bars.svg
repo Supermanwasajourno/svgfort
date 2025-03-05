@@ -1,0 +1,55 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect x="0" y="0" width="800" height="400"         fill="white" />
+  <text font-size="1.5rem" fill="black"         x="20" y="20" xml:space="preserve">
+    <tspan x="20" dy="0em">Потребители в США ожидают, что новые тарифы Трампа</tspan>
+    <tspan x="20" dy="1.2em">приведут к повышению цен</tspan>
+  </text>
+  <text font-size="1.2rem" fill="black"         x="20" y="87.6" xml:space="preserve">
+    <tspan x="20" dy="0em">Как, по-вашему, дополнительные тарифы повлияют на</tspan>
+    <tspan x="20" dy="1.2em">расходы вашей семьи?</tspan>
+  </text>
+  <rect x="420" y="153.68"         width="0" height="30"         fill="#9c2c24">
+    <animate attributeName="width"              from="0" to="330.0"              begin="0.0s" dur="0.5s"              fill="freeze" />
+  </rect>
+  <text x="20" y="168.68"         font-size="1rem"         fill="black"         text-anchor="start"         dominant-baseline="middle">
+    Повысят стоимость товаров повседневного спроса
+  </text>
+  <text x="755.0" y="168.68"         font-size="1rem"         fill="black"         opacity="0"         dominant-baseline="middle">
+    59%
+    <animate attributeName="opacity" from="0" to="1"              begin="0.5s"              dur="0.3s" fill="freeze" />
+  </text>
+  <rect x="420" y="203.68"         width="0" height="30"         fill="#9c2c24">
+    <animate attributeName="width"              from="0" to="61.52542372881356"              begin="0.5s" dur="0.5s"              fill="freeze" />
+  </rect>
+  <text x="20" y="218.68"         font-size="1rem"         fill="black"         text-anchor="start"         dominant-baseline="middle">
+    Снизит стоимость повседневных товаров
+  </text>
+  <text x="486.52542372881356" y="218.68"         font-size="1rem"         fill="black"         opacity="0"         dominant-baseline="middle">
+    11%
+    <animate attributeName="opacity" from="0" to="1"              begin="1.0s"              dur="0.3s" fill="freeze" />
+  </text>
+  <rect x="420" y="253.68"         width="0" height="30"         fill="#9c2c24">
+    <animate attributeName="width"              from="0" to="83.89830508474576"              begin="1.0s" dur="0.5s"              fill="freeze" />
+  </rect>
+  <text x="20" y="268.68"         font-size="1rem"         fill="black"         text-anchor="start"         dominant-baseline="middle">
+    Не окажет влияния
+  </text>
+  <text x="508.89830508474574" y="268.68"         font-size="1rem"         fill="black"         opacity="0"         dominant-baseline="middle">
+    15%
+    <animate attributeName="opacity" from="0" to="1"              begin="1.5s"              dur="0.3s" fill="freeze" />
+  </text>
+  <rect x="420" y="303.68"         width="0" height="30"         fill="#9c2c24">
+    <animate attributeName="width"              from="0" to="89.49152542372882"              begin="1.5s" dur="0.5s"              fill="freeze" />
+  </rect>
+  <text x="20" y="318.68"         font-size="1rem"         fill="black"         text-anchor="start"         dominant-baseline="middle">
+    Не уверен
+  </text>
+  <text x="514.4915254237288" y="318.68"         font-size="1rem"         fill="black"         opacity="0"         dominant-baseline="middle">
+    16%
+    <animate attributeName="opacity" from="0" to="1"              begin="2.0s"              dur="0.3s" fill="freeze" />
+  </text>
+  <text x="20" y="380"         font-size="12pt" fill="black">
+    Источник: опрос 2121 взрослого американца, который проводился с 6 по 8 февраля 2025 года.
+  </text>
+  <image xlink:href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTU3MCIgaGVpZ2h0PSIzNDUiIHZpZXdCb3g9IjAgMCAxNTcwIDM0NSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNDQgMTA5QzE0NCAxOTcuODQ0IDE0NC41IDMzNi41IDE0NC41IDMzNi41SDE5NS41VjEwOUMyMDIuNTI4IDkzLjE1MDIgMjE3LjAzNiA3Ni4wNzgxIDI0Mi41IDc1QzI2Ny40MjYgNzQuMzk0OSAyODQuODEgOTAuNDIyOCAyOTIuMTExIDEwOUgzMzkuNUMzMzIuNjcxIDg3LjI2MDMgMzI2LjczNiA3NS43NjA1IDMwMiA1OUMyNjYuMzc0IDM3Ljk0ODYgMjQ1Ljk1NSAzNi4wODQ5IDIwOSA0NS41TDE3MCAwTDEzMS41IDQ1LjVDOTMuMDAyMyAzNS41NDU4IDcyLjU3NjQgMzguODc1NiAzOCA1OUMxMy4zNjQzIDc2LjQ2MjQgNi42OTg1NiA4Ny44MTgyIDAuNSAxMDlINDcuNUM2MC42Mzk3IDc1LjEzNTEgOTQuNSA3NSA5NC41IDc1Qzk0LjUgNzUgOTcuNjA0IDc0Ljc3MTYgMTAwIDc1LjAxNThDMTA5Ljc5OCA3NS4wNzk2IDEzNS41OTUgODMuMzA2MyAxNDQgMTA5WiIgZmlsbD0iIzlDMkMyNCIvPgo8cGF0aCBkPSJNNDg2IDIzOS41QzQ4NiAyNzQuODc0IDQ2OC44MzggMzA2LjE4MSA0NDIuNSAzMjUuMzIyVjMzOEg0ODZWMjM5LjVaIiBmaWxsPSIjOUMyQzI0Ii8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNDQyLjUgMzI1LjMyMkM0NjguODM4IDMwNi4xODEgNDg2IDI3NC44NzQgNDg2IDIzOS41QzQ4NiAxODEuMjM0IDQzOS40MzggMTM0IDM4MiAxMzRDMzI0LjU2MiAxMzQgMjc4IDE4MS4yMzQgMjc4IDIzOS41QzI3OCAyOTcuNzY2IDMyNC41NjIgMzQ1IDM4MiAzNDVDNDA0LjU2NyAzNDUgNDI1LjQ1NSAzMzcuNzA5IDQ0Mi41IDMyNS4zMjJaTTM4MiAzMDFDNDE1LjY4OSAzMDEgNDQzIDI3My42ODkgNDQzIDI0MEM0NDMgMjA2LjMxMSA0MTUuNjg5IDE3OSAzODIgMTc5QzM0OC4zMTEgMTc5IDMyMSAyMDYuMzExIDMyMSAyNDBDMzIxIDI3My42ODkgMzQ4LjMxMSAzMDEgMzgyIDMwMVoiIGZpbGw9IiM5QzJDMjQiLz4KPHBhdGggZD0iTTg4OSAyMzkuNUM4ODkgMjc0Ljg3NCA4NzEuODM4IDMwNi4xODEgODQ1LjUgMzI1LjMyMlYzMzhIODg5VjIzOS41WiIgZmlsbD0iIzlDMkMyNCIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTg0NS41IDMyNS4zMjJDODcxLjgzOCAzMDYuMTgxIDg4OSAyNzQuODc0IDg4OSAyMzkuNUM4ODkgMTgxLjIzNCA4NDIuNDM4IDEzNCA3ODUgMTM0QzcyNy41NjIgMTM0IDY4MSAxODEuMjM0IDY4MSAyMzkuNUM2ODEgMjk3Ljc2NiA3MjcuNTYyIDM0NSA3ODUgMzQ1QzgwNy41NjcgMzQ1IDgyOC40NTUgMzM3LjcwOSA4NDUuNSAzMjUuMzIyWk03ODUgMzAxQzgxOC42ODkgMzAxIDg0NiAyNzMuNjg5IDg0NiAyNDBDODQ2IDIwNi4zMTEgODE4LjY4OSAxNzkgNzg1IDE3OUM3NTEuMzExIDE3OSA3MjQgMjA2LjMxMSA3MjQgMjQwQzcyNCAyNzMuNjg5IDc1MS4zMTEgMzAxIDc4NSAzMDFaIiBmaWxsPSIjOUMyQzI0Ii8+CjxwYXRoIGQ9Ik05MjAgMjM5LjVDOTIwIDIwNC4xMjYgOTM3LjE2MiAxNzIuODE5IDk2My41IDE1My42NzhMOTYzLjUgNzYuNUg5MjBMOTIwIDIzOS41WiIgZmlsbD0iIzlDMkMyNCIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTk2My41IDE1My42NzhDOTM3LjE2MiAxNzIuODE5IDkyMCAyMDQuMTI2IDkyMCAyMzkuNUM5MjAgMjk3Ljc2NiA5NjYuNTYyIDM0NSAxMDI0IDM0NUMxMDgxLjQ0IDM0NSAxMTI4IDI5Ny43NjYgMTEyOCAyMzkuNUMxMTI4IDE4MS4yMzQgMTA4MS40NCAxMzQgMTAyNCAxMzRDMTAwMS40MyAxMzQgOTgwLjU0NSAxNDEuMjkxIDk2My41IDE1My42NzhaTTEwMjQgMzAxQzEwNTcuNjkgMzAxIDEwODUgMjczLjY4OSAxMDg1IDI0MEMxMDg1IDIwNi4zMTEgMTA1Ny42OSAxNzkgMTAyNCAxNzlDOTkwLjMxMSAxNzkgOTYzIDIwNi4zMTEgOTYzIDI0MEM5NjMgMjczLjY4OSA5OTAuMzExIDMwMSAxMDI0IDMwMVoiIGZpbGw9IiM5QzJDMjQiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMjAyLjUgMTUzLjE3OEMxMTc2LjE2IDE3Mi4zMTkgMTE1OSAyMDMuNjI2IDExNTkgMjM5QzExNTkgMjk3LjI2NiAxMjA1LjU2IDM0NC41IDEyNjMgMzQ0LjVDMTMwOC4wMSAzNDQuNSAxMzQ2LjM0IDMxNS40OTYgMTM2MC44MiAyNzQuOTA3SDEzMDkuNUMxMzAwLjQ0IDI4Ni45IDEyODQuNDggMjk5IDEyNjMgMjk5QzEyMjcuNSAyOTkgMTIwOSAyNjQuNSAxMjA5IDI1NC41TDEzMTggMjU0LjVIMTM2NS44OUMxMzY2LjYyIDI0OS40NDEgMTM2NyAyNDQuMjY2IDEzNjcgMjM5QzEzNjcgMTgwLjczNCAxMzIwLjQ0IDEzMy41IDEyNjMgMTMzLjVDMTI0MC40MyAxMzMuNSAxMjE5LjU0IDE0MC43OTEgMTIwMi41IDE1My4xNzhaTTEzMTcgMjE5TDEyMDggMjE5QzEyMDYuNSAyMDguNSAxMjI3IDE3NC41IDEyNjMgMTc0LjVDMTI5OC41IDE3NC41IDEzMTcgMjA5IDEzMTcgMjE5WiIgZmlsbD0iIzlDMkMyNCIvPgo8cGF0aCBkPSJNNjU0LjUgMzM5SDUxN1YyOTNMNjAwLjUgMTgzLjVINTE5LjVWMTQwLjVINjUwVjE4OC41TDU2NiAyOTZINjU0LjVWMzM5WiIgZmlsbD0iIzlDMkMyNCIvPgo8cGF0aCBkPSJNMTM5NiA3Ny41SDE0MzkuNVYyMzNMMTUwNiAxNDFIMTU1NUwxNDg3LjUgMjMzTDE1NjkuNSAzMzkuNUgxNTEzTDE0MzkuNSAyMzNWMzM5LjVIMTM5NlY3Ny41WiIgZmlsbD0iIzlDMkMyNCIvPgo8L3N2Zz4K"          x="680" y="340"          width="100" height="40" />
+</svg>
