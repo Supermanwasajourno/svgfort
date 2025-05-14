@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Инфографика с анимацией</title>
+  <style>
+    :root {
+      --square-size: 20px;
+      --gap: 2px;
+    }
+
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+    }
+
+    .program-section {
+      max-width: 400px;
+      margin: auto;
+    }
+
+    .hed {
+      display: flex;
+      align-items: baseline;
+      gap: 1rem;
+    }
+
+    .name {
+      font-size: 1.2rem;
+      font-weight: bold;
+    }
+
+    .description {
+      color: #666;
+      font-size: 0.9rem;
+    }
+
+    .cut-label {
+      margin-left: auto;
+      font-size: 1rem;
+      font-weight: bold;
+    }
+
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(10, var(--square-size));
+      grid-gap: var(--gap);
+      margin-top: 10px;
+      /* фиксированная высота 4 ряда */
+      height: calc(var(--square-size) * 4 + var(--gap) * 3);
+      overflow: hidden;
+    }
+
+    .box {
+      position: relative;
+      width: var(--square-size);
+      height: var(--square-size);
+    }
+
+    .box-bg {
+      position: absolute;
+      inset: 0;
+      background: #eee;
+    }
+
+    .box-fg {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 0;
+      background: #4F87ED;
+      /* общая длительность и плавность */
+      transition: height 600ms ease-out;
+      /* задержка запуска из переменной --k */
+      transition-delay: calc(var(--k) * 100ms);
+    }
+
+    /* запуск «заливки» */
+    .grid-container.visible .box-fg.base {
+      height: 100%;
+    }
+
+    /* запуск «срезания» */
+    .grid-container.visible .box-fg.been-cut {
+      height: 0;
+      transition-delay: calc(var(--k) * 100ms);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="program-section">
+    <div class="hed">
+      <div>
+        <div class="name">Nondefense discretionary funding</div>
+        <div class="description">Federal programs, contracts, grants and employment</div>
+      </div>
+      <div class="cut-label">16% cut</div>
+    </div>
+    <div id="grid" class="grid-container"></div>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const container = document.getElementById('grid');
+      const total = 100;       // общее число блоков
+      const cutCount = 16;     // сколько из них «отрезать»
+
+      for (let i = 0; i < total; i++) {
+        const box = document.createElement('div');
+        box.className = 'box';
+        // коэффициент задержки от 0 до 1:
+        box.style.setProperty('--k', (i / total).toFixed(2));
+
+        const bg = document.createElement('div');
+        bg.className = 'box-bg';
+
+        const fg = document.createElement('div');
+        fg.className = 'box-fg base';
+        // последние cutCount штук — «отрезать»
+        if (i >= total - cutCount) {
+          fg.classList.replace('base', 'been-cut');
+        }
+
+        box.append(bg, fg);
+        container.appendChild(box);
+      }
+
+      // Небольшая задержка, чтобы CSS-переходы сработали корректно
+      setTimeout(() => {
+        container.classList.add('visible');
+      }, 100);
+    });
+  </script>
+
+</body>
+</html>
